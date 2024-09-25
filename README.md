@@ -10,7 +10,7 @@ I enjoy staying active by going to the gym, which helps me stay healthy and focu
 
 ## Websites I Recommend
 1. [Roblox](https://www.roblox.com)  
-   Roblox is an online platform allowing players to create and play games others develop. I enjoy the creativity and variety of games available and the ability to connect with friends while playing.
+   Roblox is an online platform allowing players to create and play games others develop. I enjoy the creativity and variety of games and the ability to connect with friends while playing.
 
 2. [YouTube](https://www.youtube.com)  
-   YouTube is a vast video-sharing platform where I can find everything from entertainment to educational content. I love exploring different channels, watching tutorials, and discovering new shows and creators.
+   YouTube is a video sharing platform where I can find everything from entertainment to educational content. I love exploring different channels, watching tutorials, and discovering new shows and creators.
