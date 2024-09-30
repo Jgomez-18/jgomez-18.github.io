@@ -14,5 +14,3 @@ I enjoy staying active by going to the gym, which helps me stay healthy and focu
 
 2. [YouTube](https://www.youtube.com)  
    YouTube is a video sharing platform where I can find everything from entertainment to educational content. I love exploring different channels, watching tutorials, and discovering new shows and creators.
-
-# Guessing Game
