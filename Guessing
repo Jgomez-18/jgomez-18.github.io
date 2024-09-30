@@ -1,3 +1,6 @@
+# Random Guessing Game Flowchart
+
+```mermaid
 flowchart TD
     Start([Start]) --> GenerateNumber[Generate Random Number Between 1 and 10]
     GenerateNumber --> GetUserInput[Get User Input]
